@@ -12,7 +12,7 @@ $menu->fromArray(array(
     'text' => 'console',
     'parent' => 'components',
     'description' => 'console_desc',
-    'icon' => 'images/icons/plugin.gif',
+    'icon' => '',
     'menuindex' => 0,
     'params' => '',
     'handler' => '',
