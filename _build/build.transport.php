@@ -2,7 +2,7 @@
 
 
 
-$pkg_version = '2.2.2';
+$pkg_version = '2.2.3';
 $pkg_release = 'pl';
 define('PKG_VERSION', $pkg_version); 
 define('PKG_RELEASE', $pkg_release); 
